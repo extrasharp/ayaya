@@ -1,0 +1,2 @@
+gcc yoko.c -o yoko -lrt
+gcc aya.c -o aya -lrt
